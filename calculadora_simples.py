@@ -11,7 +11,7 @@ def calculadora(num1, num2, operacao):
         else:
             resultado = 0
     else:
-        resultado = 0  # Se a operação não for válida, o resultado é 0
+        resultado = 0  # Se a operação não for valida, o resultado é 0
     
     return resultado
 
